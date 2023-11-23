@@ -1,4 +1,4 @@
-# 1. EP32 | Capacitive Touch Sensor
+# 1. EP32 | A. Capacitive Touch Sensor
 
 ## 1. Keterangan Singkat (Abstrak)
 
@@ -18,13 +18,15 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara kerja pro
 
 
 ### Rangkaian
+![Jobsheet Embedded](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/19a4d7db-6537-49bc-bded-a4096ae1f3a3)
 
-![Jobsheet Embedded](https://github.com/brianrahma/brian-system-embedded/assets/82065700/644f9625-2d44-451c-9cf8-ce842129bb98)
+
 
 ## 3. Hasil dan Pembahasan
 
 ### Hasil Percobaan
 ![GPIO 1-GIF](https://github.com/brianrahma/brian-system-embedded/assets/82065700/be8ecc85-1328-4597-8c8f-7caabb8c38c9)
+
 
 ### Source Code
 Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%201/a.%20GPIO/1._example_blink_interval_100ms__1_detik__2_detik_dan_3_detik_s/1._example_blink_interval_100ms__1_detik__2_detik_dan_3_detik_s.ino"> disini </a> atau dibawah ini
