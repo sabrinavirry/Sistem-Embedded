@@ -4,10 +4,11 @@
   <img src="https://en.polines.ac.id/images/logo_bw.jpg" width="200" height="200">
 <br>
 <br>Disusun oleh :
-<br>Brian Rahmaditya
+<br>Sabrina Virry Talitha Meirilla
 <br>TE-3A
-<br>4.31.21.0.09</p>
+<br>4.31.21.0.23</p>
 <br>
 <b><p align="center">PROGRAM STUDI S.TR. TEKNIK TELEKOMUNIKASI</p>
+<p style="font-family:courier;" align="center">JURUSAN TEKNIK ELEKTRO</p>
 <p style="font-family:courier;" align="center">POLITEKNIK NEGERI SEMARANG</p>
 <p style="font-family:courier;" align="center">2023</p></b>
