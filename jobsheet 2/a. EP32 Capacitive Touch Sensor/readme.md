@@ -20,6 +20,9 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara kerja pro
 ### Rangkaian
 ![Jobsheet Embedded](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/19a4d7db-6537-49bc-bded-a4096ae1f3a3)
 
+![Rangkaian ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/7d8be0fe-bd30-4938-8a42-1534f868108b)
+
+
 
 
 ## 3. Hasil dan Pembahasan
