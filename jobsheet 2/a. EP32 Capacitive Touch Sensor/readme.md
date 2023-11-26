@@ -77,7 +77,7 @@ Dalam percobaan ini program dibuat untuk dapat menghasilkan LED akan memberikan 
 
 ### Source Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/a.%20GPIO/2._blink_1_detik_sekali_menggunakan_timer_milis/2._blink_1_detik_sekali_menggunakan_timer_milis.ino"> disini </a> atau dibawah ini
+Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/a.%20EP32%20Capacitive%20Touch%20Sensor/2.%20LED%20menyala%20ketika%20sensor%20disentuh%2C%20dan%20LED%20akan%20mati%20ketika%20sensor%20tidak%20disentuh/touch_2.ino"> disini </a> atau dibawah ini
 ![LED menyala ketika sensor disentuh](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/c6c95bb7-e30f-444d-8647-563d43122433)
 
 
