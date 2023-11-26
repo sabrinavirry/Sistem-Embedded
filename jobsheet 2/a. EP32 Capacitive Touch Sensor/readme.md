@@ -44,7 +44,7 @@ Pada skema rangkaian, terdapat 1 led dan 1 pushbutton. LED diatur sebagai output
 Dari praktikum ini, kita dapat mengetahui bahwa kita bisa mengatur LED dengan interval waktu tertentu menggunakan perintah delay().
 
 <br></br>
-# 2. EP32 | LED menyala ketika Sensor disentuh()
+# 2. EP32 | LED menyala ketika Sensor disentuh
 
 ## 1. Keterangan Singkat (Abstrak)
 
