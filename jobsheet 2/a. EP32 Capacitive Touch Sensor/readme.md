@@ -24,7 +24,7 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara kerja pro
 ## 3. Hasil dan Pembahasan
 
 ### Hasil Percobaan
-![GPIO 1-GIF](https://github.com/brianrahma/brian-system-embedded/assets/82065700/be8ecc85-1328-4597-8c8f-7caabb8c38c9)
+
 
 
 ### Source Code
@@ -62,8 +62,6 @@ Dalam percobaan ini program dibuat untuk dapat menghasilkan LED akan memberikan 
 
 ### Hasil Percobaan
 
-![GPIO 2-GIF](https://github.com/brianrahma/brian-system-embedded/assets/82065700/145bb445-7a7d-4b10-b7a7-170582e4cc8b)
-
 ### Source Code
 
 Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/a.%20EP32%20Capacitive%20Touch%20Sensor/2.%20LED%20menyala%20ketika%20sensor%20disentuh%2C%20dan%20LED%20akan%20mati%20ketika%20sensor%20tidak%20disentuh/touch_2.ino"> disini </a> atau dibawah ini
@@ -99,7 +97,6 @@ Dalam percobaan ini program dibuat untuk dapat melihat ketika sensor disentuh, L
 ## 3. Hasil dan Pembahasan
 
 ### Hasil Percobaaan
-![GPIO 3-GIF](https://github.com/brianrahma/brian-system-embedded/assets/82065700/d0eeafb4-a275-4a0d-aa58-a3b2638cb83e)
 
 ### Source Code
 
@@ -137,8 +134,6 @@ Dalam percobaan ini program dibuat untuk menyala LED Blink ketika sensor disentu
 
 ### Hasil Percobaan 
 
-![GPIO 4-GIFF](https://github.com/brianrahma/brian-system-embedded/assets/82065700/94d70ec7-44b6-46d9-a153-fee747d457fd)
-
 ### Source Code
 
 Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/a.%20EP32%20Capacitive%20Touch%20Sensor/4.%20ketika%20LED%20menyala%20Serial%20Monitor%20menampilkan%20angka%20yang%20akan%20bertambah%20setiap%20kali%20sensor%20disentuh/touch_4.ino"> disini </a> atau dibawah ini
@@ -175,16 +170,11 @@ Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan pus
 
 ### Hasil Percobaan
 
-![GPIO 5-GIF](https://github.com/brianrahma/brian-system-embedded/assets/82065700/a1c97368-8842-4661-a74e-417e13b1c1f2)
-
 ### Sorce Code
 
 Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/a.%20EP32%20Capacitive%20Touch%20Sensor/5.%20LED%20nyala%20running%20saat%20sensor%20disentuh/touch_5.ino"> disini </a> atau dibawah ini
 ![LED nyala running saat sensor disentuh](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/83c476ae-a76f-447c-9ecf-2c20fee24fd4)
 
 ## 4. Kesimpulan
-
-Program pada percobaan ini mengontrol beberapa LED menggunakan beberapa push button. Jika tombol pertama ditekan, LED pertama menyala atau mati. Tombol kedua membuat LED kedua berkedip dengan interval setengah detik. Saat tombol ketiga mengatur LED ketiga, keempat, dan kelima LED untuk berkedip secara bergantian dari kiri ke kanan. Program ini memberikan gambaran terhadap beberapa input tombol yang berbeda, dengan hasil ditampilkan di serial monitor.
-
 
 Dengan program di atas dalam percobaan ini yaitu ketika sensor disentuh, LED akan menyala menjadi running LED yang bergerak dari kiri ke kanan, kemudian kanan ke kiri secara kontinyu. Hasil output dari program ini akan menampilkan nilai sensor sentuh pada Serial Monitor. Kesimpulannya, program ini memungkinkan LED untuk menyala menjadi running LED ketika sensor disentuh sesuai dengan nilai yang diberikan
