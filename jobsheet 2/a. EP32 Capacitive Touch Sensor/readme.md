@@ -18,9 +18,6 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara kerja pro
 
 
 ### Rangkaian
-
-![Program contoh touch](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/a7fa7af9-3a41-4f59-b262-d289d74a95a7)
-
 ![Rangkaian ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/7d8be0fe-bd30-4938-8a42-1534f868108b)
 
 
@@ -33,8 +30,8 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara kerja pro
 
 
 ### Source Code
-Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%201/a.%20GPIO/1._example_blink_interval_100ms__1_detik__2_detik_dan_3_detik_s/1._example_blink_interval_100ms__1_detik__2_detik_dan_3_detik_s.ino"> disini </a> atau dibawah ini
-![GPIO 1](https://github.com/brianrahma/brian-system-embedded/assets/82065700/aa0ebaa2-6c5f-4e67-8542-60c7fbdd4705)
+Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/a.%20EP32%20Capacitive%20Touch%20Sensor/1.%20program%20contoh%20touch%20test/touch_1.ino"> disini </a> atau dibawah ini
+![Program contoh touch](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/a7fa7af9-3a41-4f59-b262-d289d74a95a7)
 
 ### Flowchart
 
