@@ -47,19 +47,23 @@ Pada skema rangkaian, terdapat 1 led dan 1 pushbutton. LED diatur sebagai output
 Dari praktikum ini, kita dapat mengetahui bahwa kita bisa mengatur LED dengan interval waktu tertentu menggunakan perintah delay().
 
 <br></br>
-# 2. GPIO | LED blink 1 detik sekali menggunakan timer milis()
+# 2. EP32 | LED menyala ketika Sensor disentuh()
 
 ## 1. Keterangan Singkat (Abstrak)
 
-Dalam percobaan ini program dibuat untuk dapat menghasilkan LED blink 1 detik sekali menggunakan timer milis().
+Dalam percobaan ini program dibuat untuk dapat menghasilkan LED akan memberikan respon menyala apabila sensor disentuh().
 
 ## 2. Alat dan Bahan
-1. ESP32             ==> 1 buah
-2. LED               ==> 1 buah
-3. Resistor 220 Ohm  ==> 1 buah
-4. Resistor 10k Ohm  ==> 1 buah
-5. Push button       ==> 1 buah
-6. Kabel jumper
+1. ESP32                ==> 1 buah
+2. Breadboard           ==> 1 buah
+3. Kabel Jumper         ==> 1 buah
+4. Sensor DHT 11, RFID  ==> 1 buah
+5. LED                  ==> 5 buah
+6. Push Button          ==> 3 buah
+7. Servo                ==> 1 buah
+8. Resistor 330 Ohm     ==> 3 buah
+9. Resistor 1k Ohm      ==> 3 buah
+10. Resistor 10k Ohm    ==> 3 buah
 
 ### Rangkaian
 
@@ -74,7 +78,8 @@ Dalam percobaan ini program dibuat untuk dapat menghasilkan LED blink 1 detik se
 ### Source Code
 
 Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/a.%20GPIO/2._blink_1_detik_sekali_menggunakan_timer_milis/2._blink_1_detik_sekali_menggunakan_timer_milis.ino"> disini </a> atau dibawah ini
-![carbon (1)](https://github.com/brianrahma/brian-system-embedded/assets/82065700/929e1001-114f-4ce8-a32d-53ce97b70e0f)
+![LED menyala ketika sensor disentuh](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/c6c95bb7-e30f-444d-8647-563d43122433)
+
 
 ### Flowchart
 
