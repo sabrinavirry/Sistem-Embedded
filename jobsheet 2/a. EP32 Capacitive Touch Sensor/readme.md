@@ -213,7 +213,7 @@ Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan pus
 
 ### Sorce Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/a.%20GPIO/5._push_button_ke-3_ditekan_maka_LED_running/5._push_button_ke-3_ditekan_maka_LED_running.ino"> disini </a> atau dibawah ini
+Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/a.%20EP32%20Capacitive%20Touch%20Sensor/5.%20LED%20nyala%20running%20saat%20sensor%20disentuh/touch_5.ino"> disini </a> atau dibawah ini
 ![LED nyala running saat sensor disentuh](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/83c476ae-a76f-447c-9ecf-2c20fee24fd4)
 
 ### Flowchart
