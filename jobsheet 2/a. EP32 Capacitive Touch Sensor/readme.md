@@ -80,7 +80,7 @@ Program Blink LED menggunakan millis() membuat LED berkedip dengan interval wakt
 
 ## 1. Keterangan Singkat (Abstrak)
 
-Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan push button, dimana saat push button ditekan maka LED akan menyala.
+Dalam percobaan ini program dibuat untuk dapat melihat ketika sensor disentuh, LED akan menyala Blink dan menampilkan angka yang akan bertambah setiap kali sensor disentuh.
 
 ## 2. Alat dan Bahan
 1. ESP32                ==> 1 buah
@@ -101,7 +101,6 @@ Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan pus
 ## 3. Hasil dan Pembahasan
 
 ### Hasil Percobaaan
-
 ![GPIO 3-GIF](https://github.com/brianrahma/brian-system-embedded/assets/82065700/d0eeafb4-a275-4a0d-aa58-a3b2638cb83e)
 
 ### Source Code
@@ -111,14 +110,14 @@ Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/b
 
 ## 4. Kesimpulan
 
-Jika push button ditekan, LED akan menyala, dan jika tidak, LED akan mati. Nilai status push button ditampilkan di serial monitor. Jadi program ini memberikan gambaran terhadap keadaan push button dengan memanfaatkan kontrol digital pada pin-input dan pin-output mikrokontroler.
+Program ini menggunakan ESP 32 untuk menyala LED Blink ketika sensor disentuh. Angka yang ditampilkan pada Serial Monitor akan bertambah setiap kali sensor disentuh.
 
 <br></br>
 # 4. EP32 | LED menyala Serial Monitor menampilkan angka yang akan bertambah setiap kali sensor disentuh
 
 ## 1. Keterangan Singkat (Abstrak)
 
-Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan push button, dimana saat push button kedua ditekan maka LED akan melakukan blink 500 ms sekali.
+Dalam percobaan ini program dibuat untuk menyala LED Blink ketika sensor disentuh. Angka yang ditampilkan pada Serial Monitor akan bertambah setiap kali sensor disentuh.
 
 ## 2. Alat dan Bahan
 1. ESP32                ==> 1 buah
@@ -149,7 +148,7 @@ Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/b
 
 ## 4. Kesimpulan
 
-Jika push button pertama ditekan, LED pertama akan menyala atau mati, kemudian saat push button kedua ditekan, akan membuat LED kedua berkedip dengan interval 500 ms. Percobaan ini memberikan gambaran terhadap dua LED sesuai dengan kondisi dua push button yang berbeda.
+Dengan menggunakan program ini, dapat menyampaikan sinyal dari sensor sentuh ke LED Blink dan menampilkan informasi tentang perubahan keadaan sensor pada Serial Monitor.
 
 <br></br>
 # 5. EP32 | LED nyala running saat sensor disentuh
