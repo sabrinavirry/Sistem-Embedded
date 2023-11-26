@@ -21,8 +21,6 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara kerja pro
 ![Rangkaian ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/7d8be0fe-bd30-4938-8a42-1534f868108b)
 
 
-
-
 ## 3. Hasil dan Pembahasan
 
 ### Hasil Percobaan
@@ -187,3 +185,6 @@ Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/b
 ## 4. Kesimpulan
 
 Program pada percobaan ini mengontrol beberapa LED menggunakan beberapa push button. Jika tombol pertama ditekan, LED pertama menyala atau mati. Tombol kedua membuat LED kedua berkedip dengan interval setengah detik. Saat tombol ketiga mengatur LED ketiga, keempat, dan kelima LED untuk berkedip secara bergantian dari kiri ke kanan. Program ini memberikan gambaran terhadap beberapa input tombol yang berbeda, dengan hasil ditampilkan di serial monitor.
+
+
+Dengan program di atas dalam percobaan ini yaitu ketika sensor disentuh, LED akan menyala menjadi running LED yang bergerak dari kiri ke kanan, kemudian kanan ke kiri secara kontinyu. Hasil output dari program ini akan menampilkan nilai sensor sentuh pada Serial Monitor. Kesimpulannya, program ini memungkinkan LED untuk menyala menjadi running LED ketika sensor disentuh sesuai dengan nilai yang diberikan
