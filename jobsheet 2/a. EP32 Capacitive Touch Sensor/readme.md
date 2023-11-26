@@ -91,19 +91,23 @@ Kemudian, dalam fungsi setup(), pin yang terhubung ke LED (ledPin) diatur sebaga
 Program Blink LED menggunakan millis() membuat LED berkedip dengan interval waktu tertentu tanpa menggunakan delay(). Dengan memanfaatkan millis(), program tetap responsif terhadap tugas lainnya tanpa harus menunggu dan fleksibilitas dalam mengatur waktu dan keadaan LED.
 <br></br>
 
-# 3. GPIO | Mengendalikan LED menggunakan push button
+# 3. EP32 | Ketika sensor disentuh maka LED Blink akan menyala
 
 ## 1. Keterangan Singkat (Abstrak)
 
 Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan push button, dimana saat push button ditekan maka LED akan menyala.
 
 ## 2. Alat dan Bahan
-1. ESP32             ==> 1 buah
-2. LED               ==> 1 buah
-3. Resistor 220 Ohm  ==> 1 buah
-4. Resistor 10k Ohm  ==> 1 buah
-5. Push button       ==> 1 buah
-6. Kabel jumper
+1. ESP32                ==> 1 buah
+2. Breadboard           ==> 1 buah
+3. Kabel Jumper         ==> 1 buah
+4. Sensor DHT 11, RFID  ==> 1 buah
+5. LED                  ==> 5 buah
+6. Push Button          ==> 3 buah
+7. Servo                ==> 1 buah
+8. Resistor 330 Ohm     ==> 3 buah
+9. Resistor 1k Ohm      ==> 3 buah
+10. Resistor 10k Ohm    ==> 3 buah
 
 ### Rangkaian
 
@@ -117,8 +121,8 @@ Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan pus
 
 ### Source Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/a.%20GPIO/3._mengendalikan_led_menggunakan_push_button/3._mengendalikan_led_menggunakan_push_button.ino"> disini </a> atau dibawah ini
-![carbon (2)](https://github.com/brianrahma/brian-system-embedded/assets/82065700/4d85a256-725e-40fd-b637-39944ba1028a)
+Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/a.%20EP32%20Capacitive%20Touch%20Sensor/3.%20ketika%20sensor%20disentuh%2C%20LED%20menyala%20Blink/touch_3.ino"> disini </a> atau dibawah ini
+![Sensor disentuh, LED Blink menyala](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/58c30ecc-3956-4c74-baf2-fbbc00b837d9)
 
 ### flowchart
 
@@ -133,19 +137,23 @@ Fungsi loop() merupakan inti program yang berjalan terus menerus. Di dalam loop,
 Jika push button ditekan, LED akan menyala, dan jika tidak, LED akan mati. Nilai status push button ditampilkan di serial monitor. Jadi program ini memberikan gambaran terhadap keadaan push button dengan memanfaatkan kontrol digital pada pin-input dan pin-output mikrokontroler.
 
 <br></br>
-# 4. GPIO | Menambahkan 1 LED dan 1 push button pada rangkaian, ketika push button ke-2 ditekan, LED akan melakukan blink 500 ms sekali.
+# 4. EP32 | LED menyala Serial Monitor menampilkan angka yang akan bertambah setiap kali sensor disentuh
 
 ## 1. Keterangan Singkat (Abstrak)
 
 Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan push button, dimana saat push button kedua ditekan maka LED akan melakukan blink 500 ms sekali.
 
 ## 2. Alat dan Bahan
-1. ESP32 ==> 1 buah
-2. LED ==> 2 buah
-3. Resistor 220 Ohm ==> 2 buah
-4. Resistor 10k Ohm ==> 2 buah
-5. Push button ==> 2 buah
-6. Kabel jumper
+1. ESP32                ==> 1 buah
+2. Breadboard           ==> 1 buah
+3. Kabel Jumper         ==> 1 buah
+4. Sensor DHT 11, RFID  ==> 1 buah
+5. LED                  ==> 5 buah
+6. Push Button          ==> 3 buah
+7. Servo                ==> 1 buah
+8. Resistor 330 Ohm     ==> 3 buah
+9. Resistor 1k Ohm      ==> 3 buah
+10. Resistor 10k Ohm    ==> 3 buah
 
 ### Rangkaian
 
@@ -160,7 +168,7 @@ Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan pus
 ### Source Code
 
 Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/a.%20GPIO/4._push_button_ke-2_ditekan_maka_LED_blink_500ms_sekali/4._push_button_ke-2_ditekan_maka_LED_blink_500ms_sekali.ino"> disini </a> atau dibawah ini
-![carbon (3)](https://github.com/brianrahma/brian-system-embedded/assets/82065700/1a30f03e-3a84-4078-91e6-e87dfe39050c)
+![LED menyala Serial Monitor menampilkan angka yang akan bertambah setiap kali sensor disentuh](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/143daddd-db19-40c0-a695-77d3cc0cf1e1)
 
 ### Flowchart
 
@@ -175,18 +183,23 @@ Fungsi loop() merupakan inti program yang berjalan terus menerus. Di dalam loop,
 Jika push button pertama ditekan, LED pertama akan menyala atau mati, kemudian saat push button kedua ditekan, akan membuat LED kedua berkedip dengan interval 500 ms. Percobaan ini memberikan gambaran terhadap dua LED sesuai dengan kondisi dua push button yang berbeda.
 
 <br></br>
-# 5. GPIO | Menambahkan 3 LED dan 1 push button, saat push button ke-3 ditekan, LED akan running kiri ke kanan
+# 5. EP32 | LED nyala running saat sensor disentuh
 
 ## 1. Keterangan Singkat (Abstrak)
 
 Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan push button, dimana saat push button ketiga ditekan maka LED akan menyala menjadi running led (menyala bergantian dari kiri ke kanan).
 
 ## 2. Alat dan Bahan
-1. ESP32 ==> 1 buah
-2. LED ==> 5 buah
-3. Resistor 220 Ohm ==> 5 buah
-4. Resistor 10k Ohm ==> 3 buah
-5. Push button ==> 3 buah
+1. ESP32                ==> 1 buah
+2. Breadboard           ==> 1 buah
+3. Kabel Jumper         ==> 1 buah
+4. Sensor DHT 11, RFID  ==> 1 buah
+5. LED                  ==> 5 buah
+6. Push Button          ==> 3 buah
+7. Servo                ==> 1 buah
+8. Resistor 330 Ohm     ==> 3 buah
+9. Resistor 1k Ohm      ==> 3 buah
+10. Resistor 10k Ohm    ==> 3 buah
 
 ### Rangkaian
 
@@ -201,7 +214,8 @@ Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan pus
 ### Sorce Code
 
 Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/a.%20GPIO/5._push_button_ke-3_ditekan_maka_LED_running/5._push_button_ke-3_ditekan_maka_LED_running.ino"> disini </a> atau dibawah ini
-![carbon (4)](https://github.com/brianrahma/brian-system-embedded/assets/82065700/b9a6738f-8cf2-45af-98ec-b1685ef30919)
+![LED nyala running saat sensor disentuh](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/83c476ae-a76f-447c-9ecf-2c20fee24fd4)
+
 ### Flowchart
 
 ![283578306-f33ec0e3-478f-4588-b53f-67eb0437223b](https://github.com/brianrahma/brian-system-embedded/assets/82065700/d69fc663-fc98-407b-8372-1ccb0608dfcc)
