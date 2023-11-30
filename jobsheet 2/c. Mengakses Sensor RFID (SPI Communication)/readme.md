@@ -4,7 +4,7 @@
 
 ## 1. Keterangan Singkat (Abstrak)
 
-Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara untuk memperiksa atau mengecek kerja dari sensor DHT 11.
+Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara untuk mengecek kerja dari sensor RFID.
 
 ## 2. Alat dan Bahan
 1. ESP32                ==> 1 buah
@@ -24,7 +24,7 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara untuk mem
 
 
 ## 3. Hasil dan Pembahasan
-Dari hasil praktikum ini kita dapat mengerti cara mengecek RFID. Ketika kartu RFID  didekatkan ke pembaca RFID, kode identifikasi kartu RFID  muncul  di layar serial.
+Dalam praktikum ini kita dapat mengerti cara mengecek RFID. Ketika kartu RFID  didekatkan ke pembaca RFID, kode identifikasi kartu RFID  muncul  di layar serial.
 
 ### Hasil Percobaan
 
