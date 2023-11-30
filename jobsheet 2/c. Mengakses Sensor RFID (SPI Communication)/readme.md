@@ -32,7 +32,7 @@ Dari hasil praktikum ini kita dapat mengerti cara mengecek Sensor DHT 11, dimana
 
 
 ### Source Code
-Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/tree/master/jobsheet%202/b.%20Mengakses%20Sensor%20DHT%2011%20(Single%20Wire%20%20BUS)/1.%20program%20contoh%20dht11"> disini </a> atau dibawah ini
+Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/c.%20Mengakses%20Sensor%20RFID%20(SPI%20Communication)/1.%20program%20contoh%20RFID/rfid_1.ino"> disini </a> atau dibawah ini
 ![cek sensor](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/38b89bf3-4847-4742-8be1-b4ef9607aef1)
 
 
