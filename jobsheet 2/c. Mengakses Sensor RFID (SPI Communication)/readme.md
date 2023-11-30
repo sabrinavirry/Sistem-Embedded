@@ -66,7 +66,7 @@ Dalam percobaan ini program dibuat untuk dapat dapat menyelesaikan apabila saat 
 
 
 ## 3. Hasil dan Pembahasan
-Dalam praktikum ini hasil dari tugas ini adalah ketika sensor mendeteksi peningkatan suhu. Apabila suhu dibawah 30 derajat, ESP32 akan mematikan buzzer dan menyalakan LED berbentuk running LED. dan sedangkan suhu monitor serial juga meningkat.  Saat suhu ruangan mencapai 30 derajat Celcius, ESP32  menyalakan LED merah dan buzzer. 
+Dalam praktikum ini kita dapat mengetahui program agar Tag RFID yang terbaca sebelumya dapat digunakan untuk hak akses. Apabila Tag RFID didekatkan pada Reader, maka LED Hijau akan menyala, servo akan bergerak ke kanan (lalu kembali ke posisi semula setelah 3 detik) dan di Serial Monitor akan tertampil pesan “Akses Diterima, Silahkan Masuk”. Apabila Tag RFID tidak dikenali, maka LED Merah akan menyala, servo tidak bergerak dan di Serial Monitor akan tertampil pesan “Akses Ditolak”. Gunakan Tag RFID lain untuk mencobanya.
 
 ### Hasil Percobaan
 
@@ -77,7 +77,7 @@ Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/b
 
 ## 4. Kesimpulan
 
-Praktikum ini kita dapat mengetahui ketika sensor mendeteksi peningkatan suhu, saat suhu ruangan mencapai 30 derajat Celcius maupun pada saat tidak mencapai suhu tersebut.
+Praktikum ini kita dapat mengetahui program agar Tag RFID yang terbaca sebelumya dapat digunakan untuk hak akses. Apabila Tag RFID didekatkan pada Reader, maka LED Hijau akan menyala, servo akan bergerak ke kanan (lalu kembali ke posisi semula setelah 3 detik) dan di Serial Monitor akan tertampil pesan “Akses Diterima, Silahkan Masuk”. Apabila Tag RFID tidak dikenali, maka LED Merah akan menyala, servo tidak bergerak dan di Serial Monitor akan tertampil pesan “Akses Ditolak”. Gunakan Tag RFID lain untuk mencobanya.
 
 <br><br>
 
