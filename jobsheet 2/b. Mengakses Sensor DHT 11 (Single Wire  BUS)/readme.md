@@ -31,8 +31,9 @@ Dari hasil praktikum ini kita dapat mengerti cara mengecek Sensor DHT 11, dimana
 
 
 ### Source Code
-Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/a.%20EP32%20Capacitive%20Touch%20Sensor/1.%20program%20contoh%20touch%20test/touch_1.ino"> disini </a> atau dibawah ini
-![Program contoh touch](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/a7fa7af9-3a41-4f59-b262-d289d74a95a7)
+Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/tree/master/jobsheet%202/b.%20Mengakses%20Sensor%20DHT%2011%20(Single%20Wire%20%20BUS)/1.%20program%20contoh%20dht11"> disini </a> atau dibawah ini
+![cek sensor](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/38b89bf3-4847-4742-8be1-b4ef9607aef1)
+
 
 ## 4. Kesimpulan
 
@@ -69,7 +70,7 @@ Dalam praktikum ini hasil dari tugas ini adalah ketika sensor mendeteksi peningk
 ### Source Code
 
 Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/b.%20Mengakses%20Sensor%20DHT%2011%20(Single%20Wire%20%20BUS)/2.%20saat%20suhu%20ruang%2030%20derajat%20maka%20LED%20dan%20buzzer%20nyala/dht11_2.ino"> disini </a> atau dibawah ini
-![LED menyala ketika sensor disentuh](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/c6c95bb7-e30f-444d-8647-563d43122433)
+![suhu ruang 30 derajat](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/d337ddd7-00ea-47f7-a29d-45dd0e05667b)
 
 ## 4. Kesimpulan
 
