@@ -4,7 +4,7 @@
 
 ## 1. Keterangan Singkat (Abstrak)
 
-Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara untuk memperiksa atau mengecek kerja dari sensor DHT 11 T.
+Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara untuk memperiksa atau mengecek kerja dari sensor DHT 11.
 
 ## 2. Alat dan Bahan
 1. ESP32                ==> 1 buah
