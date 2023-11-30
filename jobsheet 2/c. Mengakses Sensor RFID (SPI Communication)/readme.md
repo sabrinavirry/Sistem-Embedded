@@ -23,10 +23,8 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara untuk mem
 ![Rangkaian](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/ea39039f-9943-4990-bec3-5044040809e7)
 
 
-
-
 ## 3. Hasil dan Pembahasan
-Dari hasil praktikum ini kita dapat mengerti cara mengecek Sensor DHT 11, dimana setelah mengecek kita dapat mengetahui jika sensor berfungsi dengan baik maka serial monitor akan menampilkan hasil  suhu dan kelembaban  sensor DHT11.
+Dari hasil praktikum ini kita dapat mengerti cara mengecek RFID. Ketika kartu RFID  didekatkan ke pembaca RFID, kode identifikasi kartu RFID  muncul  di layar serial.
 
 ### Hasil Percobaan
 
@@ -34,12 +32,13 @@ Dari hasil praktikum ini kita dapat mengerti cara mengecek Sensor DHT 11, dimana
 
 ### Source Code
 Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/c.%20Mengakses%20Sensor%20RFID%20(SPI%20Communication)/1.%20program%20contoh%20RFID/rfid_1.ino"> disini </a> atau dibawah ini
-![cek sensor](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/38b89bf3-4847-4742-8be1-b4ef9607aef1)
+![cek RFID](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/a5a9a013-9ecb-49f9-8d79-3219afe7a1d5)
+
 
 
 ## 4. Kesimpulan
 
-Dari praktikum ini, kita dapat mengetahui bahwa kita bisa mengetahui cara kerja dari sensor DHT 11().
+Dari praktikum ini, kita dapat mengetahui bahwa kita bisa mengetahui cara kerja dari sensor RFID (SPI Communication)().
 
 <br></br>
 # 2. RFID | Studi Kasus
@@ -73,7 +72,8 @@ Dalam praktikum ini kita dapat mengetahui program agar Tag RFID yang terbaca seb
 ### Source Code
 
 Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/c.%20Mengakses%20Sensor%20RFID%20(SPI%20Communication)/2.%20RFID%20dikenali%20maka%20LED%20hijau%20dan%20servo%20menyala/rfid___servo.ino"> disini </a> atau dibawah ini
-![suhu ruang 30 derajat](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/d337ddd7-00ea-47f7-a29d-45dd0e05667b)
+![RFID Servo](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/5b3258df-4ebc-49fc-a5e5-581f8bb02b37)
+
 
 ## 4. Kesimpulan
 
@@ -83,20 +83,6 @@ Praktikum ini kita dapat mengetahui program agar Tag RFID yang terbaca sebelumya
 
 
 
-
-
-
-
-
-# C. Mengakses Sensor RFID (SPI Communication)
-
-## 1. Cek RFID
-
-### a. Rangkaian 
-<img alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/74a26b36-91ab-4a93-8a4d-af319da6e011">
-
-### b. Source Code
-Kode program dapat dilihat <a href="1.%20rangkaian/rfid_rangkaian/rfid_rangkaian.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
 Hasil dari percobaan ini adalah ketika RFID Card didekatkan pada RFID Reader maka akan muncul code deteksi RFID Card di serial monitor
