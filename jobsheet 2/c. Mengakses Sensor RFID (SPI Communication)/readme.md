@@ -20,7 +20,8 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara untuk mem
 
 
 ### Rangkaian
-![Rangkaian](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/c53098a8-83fe-4ebe-856c-397a673ce734)
+![Rangkaian](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/ea39039f-9943-4990-bec3-5044040809e7)
+
 
 
 
@@ -60,7 +61,8 @@ Dalam percobaan ini program dibuat untuk dapat dapat menyelesaikan apabila saat 
 10. Resistor 10k Ohm    ==> 3 buah
 
 ### Rangkaian
-![Rangkaian](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/a2faa430-f371-42b5-b777-f78ee92fbda3)
+![Rangkaian](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/45af32c8-9adb-4599-a13a-2f6efed0ba58)
+
 
 
 ## 3. Hasil dan Pembahasan
