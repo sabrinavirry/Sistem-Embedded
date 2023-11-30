@@ -70,7 +70,7 @@ Dalam praktikum ini hasil dari tugas ini adalah ketika sensor mendeteksi peningk
 
 ### Source Code
 
-Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/b.%20Mengakses%20Sensor%20DHT%2011%20(Single%20Wire%20%20BUS)/2.%20saat%20suhu%20ruang%2030%20derajat%20maka%20LED%20dan%20buzzer%20nyala/dht11_2.ino"> disini </a> atau dibawah ini
+Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/c.%20Mengakses%20Sensor%20RFID%20(SPI%20Communication)/2.%20RFID%20dikenali%20maka%20LED%20hijau%20dan%20servo%20menyala/rfid___servo.ino"> disini </a> atau dibawah ini
 ![suhu ruang 30 derajat](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/d337ddd7-00ea-47f7-a29d-45dd0e05667b)
 
 ## 4. Kesimpulan
