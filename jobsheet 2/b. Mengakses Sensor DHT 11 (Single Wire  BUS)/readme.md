@@ -20,7 +20,7 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara untuk mem
 
 
 ### Rangkaian
-![rangkaian](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/70e4e3aa-6814-4909-96ff-d23b2a5f8ba1)
+![rangkaian dht](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/5652d042-d7f5-49df-9936-d3c632b0c1c3)
 
 
 ## 3. Hasil dan Pembahasan
