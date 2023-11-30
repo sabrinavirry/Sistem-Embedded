@@ -45,7 +45,7 @@ Dari praktikum ini, kita dapat mengetahui bahwa kita bisa mengetahui cara kerja 
 
 ## 1. Keterangan Singkat (Abstrak)
 
-Dalam percobaan ini program dibuat untuk dapat dapat menyelesaikan apabila saat suhu ruang 30 derajat().
+Dalam percobaan ini program dibuat agar tag RFID dapat digunakan untuk mendapatkan hak akses.
 
 ## 2. Alat dan Bahan
 1. ESP32                ==> 1 buah
@@ -77,33 +77,5 @@ Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/b
 
 ## 4. Kesimpulan
 
-Praktikum ini kita dapat mengetahui program agar Tag RFID yang terbaca sebelumya dapat digunakan untuk hak akses. Apabila Tag RFID didekatkan pada Reader, maka LED Hijau akan menyala, servo akan bergerak ke kanan (lalu kembali ke posisi semula setelah 3 detik) dan di Serial Monitor akan tertampil pesan “Akses Diterima, Silahkan Masuk”. Apabila Tag RFID tidak dikenali, maka LED Merah akan menyala, servo tidak bergerak dan di Serial Monitor akan tertampil pesan “Akses Ditolak”. Gunakan Tag RFID lain untuk mencobanya.
-
+Dalam praktikum ini, kita dapat mengetahui cara membuat program agar Tag RFID yang terbaca sebelumnya dapat digunakan untuk hak akses.
 <br><br>
-
-
-
-
-### c. Hasil dan Pembahasan
-Hasil dari percobaan ini adalah ketika RFID Card didekatkan pada RFID Reader maka akan muncul code deteksi RFID Card di serial monitor
-
-https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/4cc46281-a81f-41b4-8995-0269c8951e50
-
-
-## 2. Tugas
-
-### a. Rangkaian
-Rangkaian pada percobaan ini adalah sebagai berikut
-
-
-
-### b. Source Code
-Kode program dapat dilihat <a href="1.%20rangkaian/rfid_rangkaian/rfid_rangkaian.ino">di sini</a>
-
-### c. Hasil dan Pembahasan
-Hasil dari percobaan ini adalah ketika tag RFID didekatkan pada Reader, maka LED Hijau akan menyala, servo akan bergerak ke kanan (lalu kembali ke posisi semula setelah 3 detik) dan di Serial Monitor akan tertampil pesan “Akses Diterima, Silahkan Masuk”. Apabila Tag RFID tidak dikenali, maka LED Merah akan menyala, servo tidak bergerak dan di Serial Monitor akan tertampil pesan “Akses Ditolak”. 
-
-
-https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/f0244211-40e7-49eb-8712-df14774e2d34
-
-
