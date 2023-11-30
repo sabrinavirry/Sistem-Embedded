@@ -18,7 +18,8 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara kerja pro
 
 
 ### Rangkaian
-![Rangkaian ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/7d8be0fe-bd30-4938-8a42-1534f868108b)
+![Rangkaian ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/a175edaa-7eb8-41b2-aad1-dbb8a9c13f3f)
+
 
 
 ## 3. Hasil dan Pembahasan
@@ -55,8 +56,7 @@ Dalam percobaan ini program dibuat untuk dapat menghasilkan LED akan memberikan 
 10. Resistor 10k Ohm    ==> 3 buah
 
 ### Rangkaian
-
-![Jobsheet Embedded](https://github.com/brianrahma/brian-system-embedded/assets/82065700/644f9625-2d44-451c-9cf8-ce842129bb98)
+![Rangkaian ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/4c1529ab-b558-461c-af12-2d3849dd2bec)
 
 ## 3. Hasil dan Pembahasan
 
@@ -91,8 +91,7 @@ Dalam percobaan ini program dibuat untuk dapat melihat ketika sensor disentuh, L
 10. Resistor 10k Ohm    ==> 3 buah
 
 ### Rangkaian
-
-![Jobsheet Embedded](https://github.com/brianrahma/brian-system-embedded/assets/82065700/644f9625-2d44-451c-9cf8-ce842129bb98)
+![Rangkaian ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/d41930f4-77ab-4036-aa08-794e9e60acc6)
 
 ## 3. Hasil dan Pembahasan
 
@@ -127,8 +126,8 @@ Dalam percobaan ini program dibuat untuk menyala LED Blink ketika sensor disentu
 10. Resistor 10k Ohm    ==> 3 buah
 
 ### Rangkaian
+![Rangkaian ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/06971216-8109-43fd-96e6-66848df997bc)
 
-![280174754-389106d1-e4a8-41c3-8bed-ea941e62d3db](https://github.com/brianrahma/brian-system-embedded/assets/82065700/44dc01bb-f4f2-4a04-a194-9135b80f85e2)
 
 ## 3. Hasil dan Pembahasan
 
@@ -163,8 +162,8 @@ Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan pus
 10. Resistor 10k Ohm    ==> 3 buah
 
 ### Rangkaian
+![Rangkaian ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/bab1d93e-d5a0-45de-ba8b-996e94b37517)
 
-![280177873-81dfe4c2-b0fe-4576-8de2-ab5ee3ced849](https://github.com/brianrahma/brian-system-embedded/assets/82065700/f2f7564e-75b6-4791-ab99-6bae22467d27)
 
 ## 3. Hasil dan Pembahasan
 
