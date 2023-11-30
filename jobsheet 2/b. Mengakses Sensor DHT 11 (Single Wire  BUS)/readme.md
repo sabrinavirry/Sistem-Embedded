@@ -62,7 +62,7 @@ Dalam percobaan ini program dibuat untuk dapat dapat menyelesaikan apabila saat 
 ![Jobsheet Embedded](https://github.com/brianrahma/brian-system-embedded/assets/82065700/644f9625-2d44-451c-9cf8-ce842129bb98)
 
 ## 3. Hasil dan Pembahasan
-Dalam praktikum ini hasil dari tugas ini adalah ketika sensor mendeteksi peningkatan suhu, suhu monitor serial juga meningkat.  Saat suhu ruangan mencapai 30 derajat Celcius, ESP32  menyalakan LED merah dan buzzer.
+Dalam praktikum ini hasil dari tugas ini adalah ketika sensor mendeteksi peningkatan suhu. Apabila suhu dibawah 30 derajat, ESP32 akan mematikan buzzer dan menyalakan LED berbentuk running LED. dan sedangkan suhu monitor serial juga meningkat.  Saat suhu ruangan mencapai 30 derajat Celcius, ESP32  menyalakan LED merah dan buzzer. 
 
 ### Hasil Percobaan
 
@@ -73,6 +73,6 @@ Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/b
 
 ## 4. Kesimpulan
 
-Praktikum ini kita dapat mengetahui ketika sensor mendeteksi peningkatan suhu, suhu monitor serial juga meningkat.  Saat suhu ruangan mencapai 30 derajat Celcius, ESP32  menyalakan LED merah dan buzzer.
+Praktikum ini kita dapat mengetahui ketika sensor mendeteksi peningkatan suhu, saat suhu ruangan mencapai 30 derajat Celcius maupun pada saat tidak mencapai suhu tersebut.
 
 <br><br>
