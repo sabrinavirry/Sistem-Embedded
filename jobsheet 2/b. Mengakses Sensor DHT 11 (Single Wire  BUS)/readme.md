@@ -20,7 +20,7 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara untuk mem
 
 
 ### Rangkaian
-![Rangkaian ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/7d8be0fe-bd30-4938-8a42-1534f868108b)
+![rangkaian](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/70e4e3aa-6814-4909-96ff-d23b2a5f8ba1)
 
 
 ## 3. Hasil dan Pembahasan
@@ -59,8 +59,7 @@ Dalam percobaan ini program dibuat untuk dapat dapat menyelesaikan apabila saat 
 10. Resistor 10k Ohm    ==> 3 buah
 
 ### Rangkaian
-
-![Jobsheet Embedded](https://github.com/brianrahma/brian-system-embedded/assets/82065700/644f9625-2d44-451c-9cf8-ce842129bb98)
+![rangkaian](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/81e6ab41-8a26-41bf-accc-7f17cc40bccd)
 
 ## 3. Hasil dan Pembahasan
 Dalam praktikum ini hasil dari tugas ini adalah ketika sensor mendeteksi peningkatan suhu. Apabila suhu dibawah 30 derajat, ESP32 akan mematikan buzzer dan menyalakan LED berbentuk running LED. dan sedangkan suhu monitor serial juga meningkat.  Saat suhu ruangan mencapai 30 derajat Celcius, ESP32  menyalakan LED merah dan buzzer. 
