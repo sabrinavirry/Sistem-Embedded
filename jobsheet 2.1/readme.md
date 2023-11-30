@@ -9,3 +9,5 @@
 3. One-Way, One-to-Many Communication
 4. One-Way, Many-to-One Communication
 5. Two-Way Communication
+
+Selamat mencoba dan semoga bermanfaat!
