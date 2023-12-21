@@ -2,12 +2,20 @@
 // BRIAN RAHMADITYA                (4.31.21.0.09)
 // SABRINA VIRRY TALITHA MEIRILLA  (4.31.21.0.23)
 
-#include "WiFi.h"
+#ifdef ESP32
+  #include <WiFi.h>
+#else
+  #include <ESP8266WiFi.h>
+#endif
 
-void setup() {
+void setup(){
   Serial.begin(115200);
-  WiFi.mode(WIFI_MODE_STA);
+  Serial.println();
+  Serial.print("ESP Board MAC Address:  ");
   Serial.println(WiFi.macAddress());
 }
-void loop() {
+ 
+void loop(){
+
 }
+
