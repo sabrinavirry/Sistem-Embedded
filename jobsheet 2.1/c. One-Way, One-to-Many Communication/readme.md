@@ -18,18 +18,15 @@ Master bertindak sebagai pengendali utama yang menginisiasi dan mengatur komunik
 Pertama-tama, master memasukkan terlebih dahulu MAC Address dari masing-masing ESP yang menjadi slave. Kemudian master mengirimkan data yang sama kepada masing-masing slave.
 
 ##### Master
-
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/ab83cdf8-1cf1-4987-850b-ccb24efa5dce
+masukan hasil
 
 ##### Slave
-
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/ddfe26be-7e7c-47a4-9a9f-d921bbe5b6a3
-
+masukan hasil
 
 ##### Salah satu board slave dimatikan
 Jika salah satu board slave dimatikan=, maka komunikasi antara master dan slave tersebut akan terputus. Master tidak akan dapat mengirimkan instruksi atau data ke perangkat slave yang dimatikan tersebut, dan slave yang dimatikan juga tidak akan dapat merespons atau menerima data.
 
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/5a5ce77b-8112-4b29-ae5a-ac7749779e1e
+masukan hasil
 
 
 ## 2. Mengirim Pesan yang Berbeda ke Beberapa Board ESP32
@@ -52,18 +49,18 @@ dan slave 3 mendapatkan data variabel dengan tipe data string.
 
 ##### Master
 
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/dd169363-03e4-431c-867c-eb39e005783c
+masukan hasil
 
 ##### Slave 1
 
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/ae24f108-ac93-48d1-84f8-21e5d4afe44b
+masukan hasil
 
 ##### Slave 2
 
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/d9c1da13-dce7-4f1c-8ec9-c8ff383a34ea
+masukan hasil
 
 ##### Slave 3
 
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/6440d876-757b-48c9-9ec7-46926fa2eb4d
+masukan hasil
 
 
