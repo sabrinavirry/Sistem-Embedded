@@ -17,12 +17,10 @@ Pada percobaan ini, "One" mengacu pada perangkat penerima tunggal, dan "Many" me
 Output yang dihasilkan adalah sebagai berikut
 
 ##### Master
-
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/d01441c7-f31b-408d-9912-9244da693556
+masukan hasil 
 
 ##### Slave
-
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/98694786-d8c7-4975-9957-7ce9b5ddd5f1
+masukan hasil
 
 Dapat dilihat bahwa receiver mendapatkan 3 buah data dari 3 sender, dengan memperhatikan MAC Address pengirim berjumlah 3 buah
 
