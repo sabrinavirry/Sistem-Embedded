@@ -5,7 +5,8 @@
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![image](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/d66c1441-4e2b-402e-9b6a-a2fff986e1ef)
+![rangkaian](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/47a0a3fa-f106-434b-9676-182117eb4efa)
+
 
 ### b. Source Code
 Pada percobaan ini, kelompok kami sebagai receiver <br>
