@@ -10,7 +10,7 @@ Rangkaian pada percobaan ini adalah sebagai berikut
 
 ### b. Source Code
 Pada percobaan ini, kelompok kami sebagai receiver <br>
-Kode program dapat dilihat <a href="ESP-NOW_One-Way_Point-to-Point_Communication/ESP-NOW_One-Way_Point-to-Point_Communication.ino">di sini</a>
+Kode program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202.1/b.%20ESP-NOW%20One-Way%20Point-to-Point%20Communication/1.%20Send%20dan%20receive%20mac%20address/receive_mac_address.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
 Program dibagi menjadi 2, yaitu sender dan receiver<br>
