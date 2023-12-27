@@ -10,7 +10,7 @@ Rangkaian pada percobaan ini adalah sebagai berikut
 
 ### b. Source Code
 Pada percobaan ini, kelompok kami sebagai Slave (receiver) <br>
-Kode program dapat dilihat <a href="1.%20Mengirim%20Pesan%20yang%20Sama%20Ke%20Beberapa%20Board%20ESP32/4_ESP_collab/4_ESP_collab.ino">di sini</a>
+Kode program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202.1/c.%20One-Way%2C%20One-to-Many%20Communication/1.%20Mengirim%20Pesan%20yang%20Sama%20Ke%20Beberapa%20Board%20ESP32/receiver.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
 Pada percobaan ini menggunakan 4 buah ESP32. Sebuah ESP akan menjadi Master (sender) dan 3 ESP lainnya menjadi Slave (receiver).
