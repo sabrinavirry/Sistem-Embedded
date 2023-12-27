@@ -4,8 +4,9 @@
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
+![rangkaian](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/f126fdf8-017f-4fb3-aa9f-f155d147785e)
 
-![image](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/2c907615-7790-4963-b513-1075e417561c)
+
 
 ### b. Source Code
 Pada percobaan ini, kelompok kami sebagai Slave (receiver) <br>
@@ -35,8 +36,9 @@ https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/5a5ce77b-8112-4b2
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
+![rangkaian](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/68c9666a-8057-4de9-a293-d03f51338aaa)
 
-![image](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/2c907615-7790-4963-b513-1075e417561c)
+
 
 ### b. Source Code
 Pada percobaan ini, kelompok kami sebagai Master (sender) <br>
