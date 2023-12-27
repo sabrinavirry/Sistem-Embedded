@@ -4,6 +4,7 @@
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
+
 ![rangkaian ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/17fae4a5-6535-4caa-884e-29f4be293c09)
 
 
