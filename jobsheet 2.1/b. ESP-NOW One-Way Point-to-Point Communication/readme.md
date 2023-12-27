@@ -191,12 +191,10 @@ Program ini, ketika dijalankan, akan terus mendengarkan dan menampilkan informas
 Sehingga output yang dihasilkan adalah pada serial monitor sender akan menghasilkan output berupa “Data berhasil dikirim” sedangkan pada serial monitor receiver output yang dihasilkan berupa “INI ADALAH CHAR”
 
 ##### Sender
-
-![hasil-2-kirim](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/df255ae8-f4ba-4825-b912-745a7c448b16)
+masukan gambar hasil praktikum
 
 ##### Receiver
-
-![hasil-2-terima](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/27ebaf82-6649-47d1-aa73-b34c9704a9be)
+masukan gambar hasil praktikum
 
 Untuk mengirimkan data dummy dengan ukuran yang terbaca oleh receiver $\pm$ 250 byte, yang harus dilakukan adalah dengan mengubah nilai `char a[]` menjadi 236
 ```c
@@ -210,10 +208,10 @@ typedef struct struct_message {
 Hasilnya adalah sebagai berikut
 
 ##### Sender
-![hasil-2-248byte-kirim](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/3154b101-b039-4eaa-a9ae-57a1d33ec208)
+masukan gambar hasil praktikum
 
 ##### Receiver
-![hasil-2-248byte-terima](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/c6fac252-8990-4f3e-8208-cff084d8a9d0)
+masukan gambar hasil praktikum
 
 ## 2. Tugas
 
@@ -230,13 +228,11 @@ Kode program dapat dilihat <a href="ESP-NOW_One-Way_Point-to-Point_Communication
 Pada percobaan ini, pengiriman Point-to-Point dilakukan dalam beberapa kondisi. Pertama, ada 3 kondisi jarak transmisi yaitu 1 meter, 2 meter, dan 3 meter. Kemudian, pada masing-masing jarak diberikan 3 kondisi ketinggian yaitu ground, 30cm, dan 1 meter diatas permukaan tanah. Hasil pemantauan jumlah data yang berhasil terkirim dan diterima adalah sebagai berikut
 
 ##### Hasil Kirim
-
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/7c8f8ee8-2fbf-4037-9a62-cff7d6fa6b30
+masukan gambar hasil praktikum
 
 
 ##### Hasil Terima
-
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/11227fda-bc07-43f6-a893-9f8620bbc431
+masukan gambar hasil praktikum
 
 
 ##### Hasil Tabel
