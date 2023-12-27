@@ -8,7 +8,7 @@ Rangkaian pada percobaan ini adalah sebagai berikut
 ![board-5-2](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/f1ceb29a-9b82-4e35-9525-629cdad1b36e)
 
 ### b. Source Code
-Kode program dapat dilihat <a href="1/2_way_comm_1/2_way_comm_1.ino">di sini</a>
+Kode program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202.1/e.%20Two-Way%20Communication/1.%20program%20contoh%20pengecekan%20sensor%20DHT11/2_unit_ESP32_dan_2_unit_sensor_DHT11.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
 Percobaan ini adalah mengecek sensor DHT11 dengan menghubungkannya ke board ESP dan menjalankan program diatas. Jika sensor berfungsi dengan baik,
