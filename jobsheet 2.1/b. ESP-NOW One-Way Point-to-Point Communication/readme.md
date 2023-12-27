@@ -222,7 +222,7 @@ Rangkaian pada percobaan ini adalah sebagai berikut
 
 ### b. Source Code
 Pada percobaan ini, kelompok kami sebagai receiver <br>
-Kode program dapat dilihat <a href="ESP-NOW_One-Way_Point-to-Point_Communication/ESP-NOW_One-Way_Point-to-Point_Communication.ino">di sini</a>
+Kode program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202.1/b.%20ESP-NOW%20One-Way%20Point-to-Point%20Communication/2.%20data%20dummy%20250/send_mac_address.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
 Pada percobaan ini, pengiriman Point-to-Point dilakukan dalam beberapa kondisi. Pertama, ada 3 kondisi jarak transmisi yaitu 1 meter, 2 meter, dan 3 meter. Kemudian, pada masing-masing jarak diberikan 3 kondisi ketinggian yaitu ground, 30cm, dan 1 meter diatas permukaan tanah. Hasil pemantauan jumlah data yang berhasil terkirim dan diterima adalah sebagai berikut
