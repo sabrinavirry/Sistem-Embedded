@@ -4,8 +4,8 @@
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
+![rangkaian](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/9da09db0-fd2e-4636-87bc-bdc1e6393c3b)
 
-![image](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/07f8dc96-c9ed-4185-927b-b423b7ea2f8e)
 
 
 ### b. Source Code
