@@ -20,6 +20,8 @@ pada serial monitor akan menampilkan suhu dan kelembaban yang terbaca oleh senso
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
+![rangkaian2](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/810c7382-70c9-4090-8d30-b66d99d72aaf)
+
 ![rangkaian ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/17fae4a5-6535-4caa-884e-29f4be293c09)
 
 ### b. Source Code
