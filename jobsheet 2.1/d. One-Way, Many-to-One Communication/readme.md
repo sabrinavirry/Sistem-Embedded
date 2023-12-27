@@ -10,7 +10,9 @@ Rangkaian pada percobaan ini adalah sebagai berikut
 
 ### b. Source Code
 Pada percobaan ini, kelompok kami sebagai Slave (receiver) <br>
-Kode program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202.1/d.%20One-Way,%20Many-to-One%20Communication/1.%203%20board%20diatur%20sebagai%20Sender%20dan%201%20board%20diatur%20sebagai%20receiver/receiver.ino">di sini</a>
+Program dapat dilihat dibawah ini atau dapat klik <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202.1/d.%20One-Way,%20Many-to-One%20Communication/1.%203%20board%20diatur%20sebagai%20Sender%20dan%201%20board%20diatur%20sebagai%20receiver/receiver.ino">di sini</a>
+![receiver](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/0f389e3d-caad-4180-8cb0-01fafc27e178)
+
 
 ### c. Hasil dan Pembahasan
 Pada percobaan ini, "One" mengacu pada perangkat penerima tunggal, dan "Many" merujuk pada banyak perangkat pengirim. Ini berarti bahwa satu perangkat penerima menerima data dari beberapa perangkat pengirim secara bersamaan atau secara bergantian, namun tidak memberikan respons atau balasan kepada perangkat pengirim. Pada percobaan ini menggunakan 1 ESP32 sebagai penerima dan 3 ESP32 sebagai pengirim.
