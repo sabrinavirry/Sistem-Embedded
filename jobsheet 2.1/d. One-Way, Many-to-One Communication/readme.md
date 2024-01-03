@@ -18,11 +18,9 @@ Program dapat dilihat dibawah ini atau dapat klik <a href="https://github.com/sa
 Pada percobaan ini, "One" mengacu pada perangkat penerima tunggal, dan "Many" merujuk pada banyak perangkat pengirim. Ini berarti bahwa satu perangkat penerima menerima data dari beberapa perangkat pengirim secara bersamaan atau secara bergantian, namun tidak memberikan respons atau balasan kepada perangkat pengirim. Pada percobaan ini menggunakan 1 ESP32 sebagai penerima dan 3 ESP32 sebagai pengirim.
 Output yang dihasilkan adalah sebagai berikut
 
-##### Master
-masukan hasil 
+ ![JOB 4 D-1](https://github.com/brianrahma/system-embedded/assets/82065700/fc08dd91-98f1-4ab2-ba22-5e308386dbae)
 
-##### Slave
-masukan hasil
+ <img src="https://github.com/brianrahma/system-embedded/assets/82065700/117f129c-4f66-4567-b4a2-86dd638d2091" width="700"><br>
+ <p align="justify">Dalam percobaan ini merupakan Many-to-One Communication, kata many menandakan banyaknya pengirim dan one berarti penerima tunggal. Dalam hal ini komunikasi berupa receiver tunggal yang menerima data dari 3 sender ESP32. Dari gambar diatas dapat dilihat bahwa receiver mendapatkan 3 buah data dari 3 sender yang ditandai dengan MAC Address sender yang berbeda-beda.
 
-Dapat dilihat bahwa receiver mendapatkan 3 buah data dari 3 sender, dengan memperhatikan MAC Address pengirim berjumlah 3 buah
 
