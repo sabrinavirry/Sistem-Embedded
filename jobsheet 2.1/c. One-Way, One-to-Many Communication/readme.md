@@ -19,16 +19,15 @@ Pada percobaan ini menggunakan 4 buah ESP32. Sebuah ESP akan menjadi Master (sen
 Master bertindak sebagai pengendali utama yang menginisiasi dan mengatur komunikasi, sementara 3 perangkat slave bertugas menerima instruksi atau data yang sama yang dikirimkan oleh master.
 Pertama-tama, master memasukkan terlebih dahulu MAC Address dari masing-masing ESP yang menjadi slave. Kemudian master mengirimkan data yang sama kepada masing-masing slave.
 
-##### Master
-masukan hasil
+![J2 1 -C-1-1](https://github.com/brianrahma/system-embedded/assets/82065700/48437206-8f7a-4bdc-aa1c-5e62e8337466)
 
-##### Slave
-masukan hasil
+<p align="justify">Pada percobaan ini  menggunakan empat modul ESP32, di mana satu modul berperan sebagai Master/sender dan tiga modul lainnya sebagai receiver. Langkah awal memerlukan MAC Address dari tiap ESP32 yang akan menjadi receivernya, diikuti dengan memasukkan MAC address receiver pada program Master untuk mengirimkan data seragam ke setiap modul receiver. Program tersebut diunggah ke masing-masing modul, dan kemudian dilakukan pemantauan melalui Serial Monitor di Arduino IDE.
 
-##### Salah satu board slave dimatikan
-Jika salah satu board slave dimatikan=, maka komunikasi antara master dan slave tersebut akan terputus. Master tidak akan dapat mengirimkan instruksi atau data ke perangkat slave yang dimatikan tersebut, dan slave yang dimatikan juga tidak akan dapat merespons atau menerima data.
+**Apabila salah satu board Receiver dimatikan**
 
-masukan hasil
+![J2 1 -C-1-1](https://github.com/brianrahma/system-embedded/assets/82065700/6a07e44b-3b04-45fe-984e-db32e085ddab)
+
+<p align="justify">Yang terjadi adalah komunikasi antara sender dan receiver akan terputus, artinya data yang dikirim sender tidak akan diterima oleh receiver, dan pada sender tercetak "Delivery Fail"
 
 
 ## 2. Mengirim Pesan yang Berbeda ke Beberapa Board ESP32
@@ -46,25 +45,8 @@ Program dapat dilihat dibawah ini atau dapat klik <a href="https://github.com/sa
 
 
 ### c. Hasil dan Pembahasan
-Pada percobaan ini konfigurasinya masih sama dengan sebelumnya, yaitu 1 ESP bertindak sebagai Master dan 3 ESP bertindak sebagai Slave. Yang membedakan adalah data
-yang dikirimkan kepada masing-masing Slave berbeda. Slave 1 akan mendapatkan data yang berisi variabel dengan tipe data integer, slave 2 mendapatkan data variabel dengan tipe data float, 
-dan slave 3 mendapatkan data variabel dengan tipe data string.
 
+![J2 1 -C-1-2](https://github.com/brianrahma/system-embedded/assets/82065700/a764446b-a2b5-48d5-9c07-44a05253ca96)
 
-##### Master
-
-masukan hasil
-
-##### Slave 1
-
-masukan hasil
-
-##### Slave 2
-
-masukan hasil
-
-##### Slave 3
-
-masukan hasil
-
+<p align="justify">Pada percobaan ini masih sama dengan sebelumnya, yaitu menggunakan 1 ESP yang bertindak sebagai Master/sender dan 3 ESP bertindak sebagai receiver. Perbedaannya terdapat pada data yang dikirimkan ke masing-masing receiver tidak sama. Receiver 1 akan mendapatkan data yang berisi variabel dengan tipe data integer, receiver 2 mendapatkan data variabel dengan tipe data float, dan receiver 3 mendapatkan data variabel dengan tipe data string.
 
