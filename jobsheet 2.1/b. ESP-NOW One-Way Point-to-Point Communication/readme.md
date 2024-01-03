@@ -231,11 +231,16 @@ Program dapat dilihat dibawah ini atau dapat klik <a href="https://github.com/sa
 Pada percobaan ini, pengiriman Point-to-Point dilakukan dalam beberapa kondisi. Pertama, ada 3 kondisi jarak transmisi yaitu 1 meter, 2 meter, dan 3 meter. Kemudian, pada masing-masing jarak diberikan 3 kondisi ketinggian yaitu ground, 30cm, dan 1 meter diatas permukaan tanah. Hasil pemantauan jumlah data yang berhasil terkirim dan diterima adalah sebagai berikut
 
 ##### Hasil Kirim
-masukan gambar hasil praktikum
+![sender](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/42a89e9c-418b-4dac-9b6c-9e24fd68c89e)
 
 
 ##### Hasil Terima
-masukan gambar hasil praktikum
+![receiver](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/f6453d30-97d0-4c78-afc8-6289b2a3b4be)
+
+
+##### Hasil Data Dummy
+![data dummy ](https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/b0b75578-3742-495f-b6d9-4ba747d2f6f2)
+
 
 
 ##### Hasil Tabel
