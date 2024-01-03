@@ -17,7 +17,9 @@ Program dapat dilihat dibawah ini atau dapat klik <a href="https://github.com/sa
 Percobaan ini adalah mengecek sensor DHT11 dengan menghubungkannya ke board ESP dan menjalankan program diatas. Jika sensor berfungsi dengan baik,
 pada serial monitor akan menampilkan suhu dan kelembaban yang terbaca oleh sensor.
 
-[masukan hasil]
+![JOB 4 E-1](https://github.com/brianrahma/system-embedded/assets/82065700/db2e7688-5518-4f1d-8db0-ad185bca5071)
+
+<p align="justify">Pada percobaan ini dilakukan pengecekan terhadap sensor DHT11. Pengecekan ini akan memberikan data-data seperti humidity, temperature, dan heat index yang dibaca oleh sensor DHT11.
 
 ## 2. Two-Way Communication
 
@@ -35,6 +37,7 @@ Program dapat dilihat dibawah ini atau dapat klik <a href="https://github.com/sa
 ### c. Hasil dan Pembahasan
 Percobaan ini menggunakan 2 board ESP32 yang saling berkomunikasi. Hasil sensor ESP A dikirim ke ESP B dan juga sebaliknya dalam interval waktu tertentu sehingga program menggabungkan fungsi pengiriman dan penerimaan data serta pembacaan sensor sekaligus.
 
-[masukan hasil]
+![JOB 4 E-1-3](https://github.com/brianrahma/system-embedded/assets/82065700/2e498984-795f-4d76-8602-56a14146f47a)
 
+<p align="justify">Pada percobaan ini dua buah ESP32 saling berkomunikasi 2 arah, yakni saling menerima dan mengirim data. Hasil pembacaan sensor DHT11 oleh ESP32 A dikirim lalu diterima oleh ESP32 B, sebaliknya hasil pembacaan sensor DHT11 oleh ESP32 B dikirim dan diterima oleh ESP32 A. Program ini menggabunngkan fungsi pengiriman dan penerimaan data serta pembacaan sensor sekaligus.
 
